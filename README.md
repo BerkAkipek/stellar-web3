@@ -16,27 +16,18 @@ The app supports wallet connection, balance retrieval, and sending XLM transacti
 
 ## Tech Stack
 
-Next.js (App Router)
-TypeScript
-React Hooks
-Stellar SDK
-Freighter Wallet API
-
-## Project Structure
-
-app/
-  components/
-    WalletButton.tsx
-  hooks/
-    useStellarWallet.ts
-page.tsx
+- Next.js (App Router)
+- TypeScript
+- React Hooks
+- Stellar SDK
+- Freighter Wallet API
 
 ## Installation
 
 Clone the repository:
 
-git clone https://github.com/BerkAkipek/stellar-web3
-cd stellar-web3
+- git clone https://github.com/BerkAkipek/stellar-web3
+- cd stellar-web3
 
 ## Install dependencies:
 
