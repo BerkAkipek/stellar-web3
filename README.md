@@ -3,6 +3,10 @@
 A minimal Next.js application that integrates the Freighter wallet to interact with the Stellar network.
 The app supports wallet connection, balance retrieval, and sending XLM transactions on the Stellar testnet.
 
+![Wallet Connected](./public/screenshots/BeforeTransaction.png)
+![Transaction](./public/screenshots/Transaction.png)
+![After Transaction](./public/screenshots/AfterTransaction.png)
+
 ## Features
 
 - Connect and disconnect Freighter wallet
