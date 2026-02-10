@@ -6,7 +6,7 @@ import {
   nativeToScVal
 } from "@stellar/stellar-sdk";
 
-export const CONTRACT_ID = "PASTE_YOUR_CONTRACT_ID";
+export const CONTRACT_ID = "CDTGUWVP7SBJFZD2A2WYBMLP3YXFEDR5HJZ54P444HV67I2ODIORUGE3";
 
 export const server = new rpc.Server(
   "https://soroban-testnet.stellar.org"
